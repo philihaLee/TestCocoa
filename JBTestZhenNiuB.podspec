@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "JBTestZhenNiuB"
-  s.version      = "v0.0.2"
+  s.version      = "0.0.2"
   s.summary      = "一个非常牛逼的框架"
 
   # This description is used to generate tags and improve search results.
@@ -78,8 +78,8 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/philihaLee/TestCocoa.git", :tag => s.version }
 
+s.source = { :git => "https://github.com/philihaLee/TestCocoa.git", :tag => s.version }
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
