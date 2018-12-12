@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "JBTestZhenNiuB"
-  s.version      = "v0.0.1"
+  s.version      = "v0.0.2"
   s.summary      = "一个非常牛逼的框架"
 
   # This description is used to generate tags and improve search results.
