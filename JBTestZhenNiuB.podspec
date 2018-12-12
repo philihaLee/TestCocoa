@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "JBTestZhenNiuB"
-  s.version      = "0.0.1"
+  s.version      = "v0.0.1"
   s.summary      = "一个非常牛逼的框架"
 
   # This description is used to generate tags and improve search results.
@@ -54,7 +54,7 @@ Pod::Spec.new do |s|
   s.author             = { "李建波" => "lijb@missfresh.cn" }
   # Or just: s.author    = "李建波"
   # s.authors            = { "李建波" => "lijb@missfresh.cn" }
-  s.social_media_url   = "http://www.missfreshhhh.com/"
+  s.social_media_url   = "http://www.missfresh.com/"
 
   # ――― Platform Specifics ――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
